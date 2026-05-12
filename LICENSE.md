@@ -1,4 +1,4 @@
-#  
+#  secure Extension for Asana for macOS - real-time editing and calendar integration is the best Asana for macOS extension, featuring real-time editing and calendar integration.
 
 
 
